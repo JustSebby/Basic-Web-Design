@@ -1,3 +1,3 @@
 # Sebastian Delgadillo
 
-<a href="intro_to_html/index.html"> Intro to HTML </a>
+<a href="INTRO_TO_HTML">Intro to HTML </a>
